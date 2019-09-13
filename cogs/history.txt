@@ -1,0 +1,90 @@
+{
+    "143583362508914688": {
+        "coins": 237441,
+        "workers": 1011,
+        "worms": 0,
+        "weed_seeds": 0,
+        "marijuana": 0,
+        "crack": 0,
+        "weapons": {
+            "glock": 1
+        },
+        "fish": {
+            "salmon": 0,
+            "bass": 0,
+            "crappie": 0,
+            "shark": 0,
+            "level": 0,
+            "xp": 79478
+        },
+        "factory": {
+            "level": 7
+        }
+    },
+    "121333924529045504": {
+        "coins": 1783,
+        "workers": 49,
+        "worms": 10796,
+        "weed_seeds": 0,
+        "marijuana": 0,
+        "crack": 0,
+        "weapons": {
+            "glock": 0
+        },
+        "fish": {
+            "salmon": 3113,
+            "bass": 6514,
+            "crappie": 10446,
+            "shark": 912,
+            "level": 1,
+            "xp": 190121
+        },
+        "factory": {
+            "level": 4
+        }
+    },
+    "338154331897593866": {
+        "coins": 13277,
+        "workers": 2500,
+        "worms": 892,
+        "weed_seeds": 0,
+        "marijuana": 0,
+        "crack": 0,
+        "weapons": {
+            "glock": 0
+        },
+        "fish": {
+            "salmon": 0,
+            "bass": 0,
+            "crappie": 0,
+            "shark": 0,
+            "level": 0,
+            "xp": 32048
+        },
+        "factory": {
+            "level": 2
+        }
+    },
+    "121441376561790976": {
+        "coins": -692838,
+        "workers": 0,
+        "worms": 769,
+        "weed_seeds": 0,
+        "marijuana": 0,
+        "crack": 0,
+        "weapons": {
+            "glock": 0
+        },
+        "fish": {
+            "salmon": 0,
+            "bass": 0,
+            "crappie": 0,
+            "shark": 0,
+            "level": 0,
+            "xp": 18744
+        },
+        "factory": {
+            "level": 0
+        }
+    }
+}
